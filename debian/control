@@ -1,0 +1,12 @@
+Source: ros-melodic-blender-gazebo
+Section: misc
+Priority: extra
+Maintainer: Dave Niewinski <david_0429@hotmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-blender-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-gazebo-ros
+Description: The blender_gazebo package
