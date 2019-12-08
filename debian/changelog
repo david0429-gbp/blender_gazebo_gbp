@@ -1,0 +1,32 @@
+ros-melodic-blender-gazebo (0.0.4-1bionic) bionic; urgency=high
+
+  * Fixed install
+  * Contributors: Dave Niewinski
+
+ -- Dave Niewinski <david_0429@hotmail.com>  Sun, 08 Dec 2019 05:00:00 -0000
+
+ros-melodic-blender-gazebo (0.0.3-1bionic) bionic; urgency=high
+
+  * Fixed deps
+  * Contributors: Dave Niewinski
+
+ -- Dave Niewinski <david_0429@hotmail.com>  Thu, 21 Nov 2019 05:00:00 -0000
+
+ros-melodic-blender-gazebo (0.0.2-1bionic) bionic; urgency=high
+
+  * Updated installation
+  * Contributors: Dave Niewinski
+
+ -- Dave Niewinski <david_0429@hotmail.com>  Thu, 21 Nov 2019 05:00:00 -0000
+
+ros-melodic-blender-gazebo (0.0.1-1bionic) bionic; urgency=high
+
+  * Functionality blocked-out.  Lots of little things to fix and usability improvements
+  * Added base launch and urdf files
+  * Cleaner collision generation, prefixing
+  * Initial Commit
+  * Contributors: Dave Niewinski
+
+ -- Dave Niewinski <david_0429@hotmail.com>  Thu, 21 Nov 2019 05:00:00 -0000
+
+
